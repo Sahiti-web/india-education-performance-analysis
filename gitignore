@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Colab/Jupyter temp files
+.virtual_documents/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data files — user downloads these separately
+*.geojson
